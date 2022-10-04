@@ -1,0 +1,21 @@
+{
+  "name": "popping-and-locking-mod",
+  "displayName": "Popping and Locking Mod",
+  "description": "A variant of the Popping and Locking theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Popping and Locking Mod",
+        "uiTheme": "vs-dark",
+        "path": "./themes/popping-and-locking-mod-color-theme.json"
+      }
+    ]
+  }
+}
