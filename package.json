@@ -2,7 +2,10 @@
   "name": "popping-and-locking-mod",
   "displayName": "Popping and Locking Mod",
   "description": "A variant of the Popping and Locking theme",
+  "publisher": "WesHicks",
+  "license": "mit",
   "version": "0.0.1",
+  "repository": {"url": "https://github.com/weshicks/popping-and-locking-mod-vscode"},
   "engines": {
     "vscode": "^1.71.0"
   },
